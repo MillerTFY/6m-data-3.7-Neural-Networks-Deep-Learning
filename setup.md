@@ -34,7 +34,7 @@ cd 6m-data-3.7-Neural-Networks-Deep-Learning
 
 ## 3. Create the conda environment
 
-From inside the `dsai-m3-l07-learner` folder:
+From inside the `6m-data-3.7-Neural-Networks-Deep-Learning` folder:
 
 ```bash
 conda env create -f environment.yml
